@@ -2,4 +2,4 @@
 
 In this project I were supposed to analyze some data about species at various national parks using matplotlib and pandas modules.
 
-More detailed specifications, see: https://github.com/vshakun/biodiversity_analysis/blob/master/biodiversity.ipynb
+For more detailed specifications, see: https://github.com/vshakun/biodiversity_analysis/blob/master/biodiversity.ipynb
